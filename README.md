@@ -10,10 +10,10 @@ And you will see the page like this.
 ![img1](img/1.jpg)
 
 
-**Attention**
+### Attention
 
-1. 新手使用建议下载之前发布的稳定版本
-2. 首次使用记得下载**with-core**类型的文件
+1. 新手使用建议下载`之前发布的稳定`版本
+2. 首次使用记得下载`with-core`类型的文件
 
 Download the appropriate version based on your system and needs.
 
@@ -29,8 +29,6 @@ Download the appropriate version based on your system and needs.
 
 We try to subscribe node for free.
 
-这里选择免费使用节点
-
 进入软件，点击订阅分组
 
 ![img4](img/4.jpg)
@@ -39,11 +37,11 @@ We try to subscribe node for free.
 
 ![img5](img/5.jpg)
 
-[免费节点的链接](https://clashgithub.com/category/clashnode)
+点击获取订阅链接[免费节点的链接](https://clashgithub.com/category/clashnode)
 
 ![img6](img/6.jpg)
 
-此外，还可以通过下面的方式批量增加节点，教程详见以下链接 [添加更多的节点](https://github.com/aiboboxx/v2rayfree)
+此外，还可以通过下面的方式批量增加节点，教程详见 [添加更多的节点](https://github.com/aiboboxx/v2rayfree)
 
 
 ## Step 4: 节点添加完成之后，点击「订阅分组」更新订阅。
@@ -54,17 +52,18 @@ We try to subscribe node for free.
 
 ## Step 5: 开启系统代理并选择路由模式
 
-**代理**
+### 代理
 
-在任务栏右下角系统托盘找到软件，图标右键，点击**自动配置系统代理**，此时 v2rayN 图标变为**红色**.
+在任务栏右下角系统托盘找到软件，图标右键，点击**自动配置系统代理**，此时 v2rayN **图标**变为 <font color=red>红色</font>.
 
 ![img8](img/8.jpg)
 
 测试一下是否可以成功上网 [Google](https://www.google.fr/)
 
 
-**路由**
-v2rayN 路由模式功能是将入站数据按需求由不同的出站连接发出，以达到按需代理，常见用法是分流国内外流量，可以通过内部机制判断不同地区的流量，然后将它们发送到不同的出站代理。当然，也可以自定义路由规则。
+### 路由
+
+v2rayN 路由模式功能是将入站数据按需求由不同的出站连接发出，以达到按需代理，常见用法是分流国内外流量，可以通过内部机制判断不同地区的流量，然后将它们发送到不同的出站代理。当然，也可以**自定义**路由规则。
 
 - 绕过大陆 (Whitelist) 模式：除中国大陆内网站其它全部通过节点服务器代理上网
 - 黑名单 (Blacklist) 模式：仅黑名单内网站通过节点服务器代理上网，其余直连
@@ -77,15 +76,15 @@ v2rayN 路由模式功能是将入站数据按需求由不同的出站连接发�
 
 ## 一些注意事项
 
-请勿**批量测速节点**，会导致全部节点5分钟内无法正常使用！
+- 如果不能正常使用节点，可参考下述方法：
 
-如果不能正常使用节点，参考下述方法：
+1. 确保电脑无杀毒软件，卸载才可以正常使用服务。
 
-1.确保电脑无杀毒软件，卸载才可以正常使用服务。
+2. 确保浏览器没有安装任何翻墙代理插件，插件会引起冲突，即使关闭也不起作用，必须卸载！
 
-2.确保浏览器没有安装任何翻墙代理插件，插件会引起冲突，即使关闭也不起作用，必须卸载！
+3. 确保系统时间准确无误，[系统测时](https://time.is/)，如果误差大于10秒，务必修改正确。
 
-3.确保系统时间准确无误，[系统测时](https://time.is/)，如果误差大于10秒，务必修改正确。
+- 若`批量测速节点`，会导致全部节点5分钟内`无法正常使用`！
 
 ## Ending!
 
